@@ -126,7 +126,8 @@
 11185093	Naboun	Naboun		11.98333	-9.53333	A	ADM3	GN		K	39	11185093		0		501	Africa/Conakry	2016-07-09
 11185094	Niagassola	Niagassola		12.31667	-9.11667	A	ADM3	GN		K	39	11185094		0		342	Africa/Conakry	2016-07-09
 11185095	Niandankoro	Niandankoro		11.08333	-9.25	A	ADM3	GN		K	39	11185095		0		356	Africa/Conakry	2016-07-09
-11185096	Norassoba	Norassoba		11.23333	-9.68333	A	ADM3	GN		K	39	11185096		0		375	Africa/Conakry	2016-07-09
+11185096	Norassoba	Norassoba		11.23333	-9.68333	A	ADM3	GN		K	39	11185096		0		375	Africa/Conakry	2016-07-0
+2414641     Tomba kanssa Tomba kanssa 11.73333  -10.18333  A  ADM3   GN  K 39  2414641             0             323 Africa/Conakry 2016-07-07 
 11185097	Siguirini	Siguirini		11.81667	-10.05	A	ADM3	GN		K	39	11185097		0		489	Africa/Conakry	2016-07-09
 11185098	Boola	Boola		8.35282	-8.71765	A	ADM3	GN		N	38	11185098		0		615	Africa/Conakry	2016-06-29
 11185099	Diara-Guerela	Diara-Guerela		8.65	-8.51667	A	ADM3	GN		N	01	11185099		0		675	Africa/Conakry	2016-07-09
